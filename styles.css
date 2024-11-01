@@ -7,7 +7,8 @@
   font-family: Roboto;
 }
 
-body {
+body, html {
+  height: 100%;
   background-color: #212a31;
   color: white;
 }
