@@ -27,7 +27,7 @@ This is a simple Roman Numeral Converter application created as part of a freeCo
 ### Usage
 
 1. Open the `index.html` file in your preferred web browser to use the Roman Numeral Converter.
-2. Alternatively, you can access the live site [here](YOUR_SITE_LINK).
+2. Alternatively, you can access the live site [here](https://abelgideon.github.io/Roman-Numeral-Converter/).
 3. Enter a decimal number in the input field and click the "Convert" button to see the Roman numeral equivalent.
 
 ### File Structure
